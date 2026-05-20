@@ -1,0 +1,6 @@
+Flujo Git 
+
+1. crear una nueva rama: git checkout -b (nombre de la rama:feature/SCRUM-28-crearClaseLancha)
+2. agregar todo: git add *
+3. hacer commit: git commit -m "mensaje de confirmacion"
+4. se sube al repo: git push -u origin (nombre de la rama: feature/SCRUM-28-crearClaseLancha)
