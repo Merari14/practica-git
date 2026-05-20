@@ -1,2 +1,2 @@
 Hola Git 
-estoy aprendiendo Git
+I am learning git
